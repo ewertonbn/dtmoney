@@ -60,8 +60,9 @@ $ cd dtmoney
 # Install the dependencies using npm or yarn
 $ npm install
 
-# Run the application in development mode
+# Run the application in development mode and json-server
 $ npm run dev
+$ npm run dev:server
 
 # The server will start at port:3000 - access  http://localhost:3000/
 
