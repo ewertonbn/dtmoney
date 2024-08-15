@@ -1,0 +1,36 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 1830.22,
+      "createdAt": "2024-08-03T02:52:10.117Z"
+    },
+    {
+      "id": 2,
+      "description": "Blog",
+      "type": "outcome",
+      "category": "Venda",
+      "price": 438.17,
+      "createdAt": "2024-08-03T02:52:10.117Z"
+    },
+    {
+      "description": "Desenvolvimento App",
+      "category": "Software",
+      "price": 6480,
+      "type": "income",
+      "createdAt": "2024-08-11T02:24:33.402Z",
+      "id": 3
+    },
+    {
+      "description": "teste",
+      "category": "teste",
+      "price": 1233,
+      "type": "outcome",
+      "createdAt": "2024-08-11T03:12:27.384Z",
+      "id": 4
+    }
+  ]
+}
